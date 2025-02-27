@@ -17,7 +17,7 @@ A simple Java app to store purchases in USD and convert them to other currencies
    `mvn clean install`
 
 4. Run the app:  
-   `java -cp target/currency-converter-app-1.0-SNAPSHOT.jar org.CurrencyConverterMain.App`
+   `java -cp target/currency-converter-app-1.0-SNAPSHOT.jar com.currencyconverter.CurrencyConverterApp`
 
 ## 📲 Using It
 - Pick an option:
